@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Daftar Harga Mobil</string>
+    <string name="gambar" translatable="false">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Keluar</string>
+    <string name="tambah_mobil">Tambah Mobil</string>
+    <string name="harga_mobil">Harga Mobil</string>
+    <string name="tipe_mobil">Tipe Mobil</string>
+    <string name="merk_mobil">Merek Mobil</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="data_kosong">Belum ada data harga mobil</string>
+    <string name="bagikan_template" translatable="false">Merk Mobil : %3$s\nTipe Mobil : %2$s\nHarga Mobil : %1$s</string>
+</resources>
